@@ -4,4 +4,8 @@ This App is build to showcase the usage of Github API and various Hook usage suc
 
 ## Deployed App
 
-https://62407ce3d01b1955f5ff106a--meek-pegasus-1e3ca5.netlify.app/
+https://github-finder-seven-mu.vercel.app/
+
+## Project Explanation
+
+What basically this project does is that it connects to the github api and retrieves the various users and their repositories along with some user stats.
